@@ -2,7 +2,7 @@
 Adult Income Classification and Clustering Project
 
 ## Project description
-This project aims to analyze adult income data using machine learning techniques for classification and grouping.
+This project aims to analyze adult income data using Data mining techniques for classification and clustering.
 
 The classification task aims to predict whether an individual's annual income is
 less than or equal to $50,000 or more than $50,000, based on various demographic, educational, and employment-related characteristics.
