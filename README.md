@@ -16,7 +16,7 @@ We chose this dataset because income is influenced by a variety of demographic, 
 ## Student names
 Nouf Al-Jaryan 446202818
 
-Ritaj Al-Hajouri 446207392
+Ritag Hagori 446207392
 
 Tala Al-Mulaifi 445201301
 
